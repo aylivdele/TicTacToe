@@ -1,0 +1,11 @@
+winner;smartIs;moves
+o;o;x0 o4 x5 o1 x6 o7 
+x;x;x4 o2 x0 o3 x1 o7 x8 
+o;o;x3 o4 x0 o6 x2 o1 x8 o7 
+x;x;x4 o5 x0 o7 x1 o3 x2 
+o;o;x4 o0 x8 o2 x5 o1 
+x;x;x4 o1 x0 o6 x3 o5 x8 
+o;o;x0 o4 x1 o2 x3 o6 
+x;x;x4 o1 x0 o5 x2 o3 x6 
+d;o;x6 o4 x1 o0 x8 o7 x2 o5 x3 
+x;x;x4 o0 x0 o1 x2 o8 x3 o5 x6 
